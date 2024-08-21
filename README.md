@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/gerriveros/DevOps/_apis/build/status%2Fgariverosl.pipelines-java?branchName=main)](https://dev.azure.com/gerriveros/DevOps/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
